@@ -3,7 +3,7 @@ import express from "express";
 import {
   authenticate,
   authorizeRoles,
-} from "../middlewares/authMiddleware.js";
+} from "../middlerware/authMiddleware.js";
 
 import {
   createStore,
