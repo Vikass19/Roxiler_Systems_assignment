@@ -42,7 +42,7 @@ export default function Navbar() {
   ];
 
   return (
-    <nav className="sticky top-0 z-50 bg-gray-900 text-white shadow-md">
+    <nav className="sticky top-0 z-50 bg-black text-white shadow-md">
       <div className="container mx-auto flex items-center justify-between p-4">
         {/* Logo */}
         <div className="text-2xl font-bold tracking-wide text-gray-100">
