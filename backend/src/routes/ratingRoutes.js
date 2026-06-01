@@ -8,7 +8,7 @@ import {
   submitRating,
 } from "../controllers/storeController.js";
 
-import { authenticate } from "../middleware/authMiddleware.js";
+import { authenticate } from "../middlerware/authMiddleware.js";
 
 const router = express.Router();
 
