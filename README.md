@@ -121,8 +121,7 @@ DATABASE_URL="mysql://username:password@localhost:3306/database_name"
 * Ensure MySQL is installed and running.
 * Create the database before starting the application.
 * Replace placeholder values with your local database credentials.
-* Never commit `.env` files to version control.
-* Add `.env` to `.gitignore`.
+
 
 If your database password contains special characters, encode them in the connection string.
 
@@ -188,7 +187,7 @@ store_rating_app/
 │
 ├── frontend/     # React frontend application
 ├── backend/      # Node.js and Express backend API
-└── imgs/         # Application screenshots
+
 ```
 
 ---
