@@ -171,12 +171,12 @@ http://localhost:5173
 
 | Screenshot                                                  | Description             |
 | ----------------------------------------------------------- | ----------------------- |
-| ![Login](imgs/login.png)                                    | Login Page              |
-| ![Register](imgs/register.png)                              | Registration Page       |
+| ![Login](imgs/admin_login.png)                                    | Login Page              |
+| ![Register](imgs/admin_register.png)                              | Registration Page       |
 | ![Dashboard](imgs/dashboard_view.png)                       | Dashboard Overview      |
-| ![Store Owner](imgs/store_owner.png)                        | Store Owner Dashboard   |
-| ![Admin Dashboard](imgs/system_administrator_dashboard.png) | Administrator Dashboard |
-| ![User View](imgs/user_view.png)                            | User Dashboard          |
+| ![Store Owner](imgs/owner_dashboard.png)                        | Store Owner Dashboard   |
+| ![Admin Dashboard](imgs/admin_dashboard.png) | Administrator Dashboard |
+| ![User View](imgs/user_rating_dashboard.png)                            | User Dashboard          |
 
 ---
 
